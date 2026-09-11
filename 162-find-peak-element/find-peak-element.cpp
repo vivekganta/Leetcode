@@ -13,6 +13,6 @@ public:
             else
             right = mid;
         }
-        return left;
+        return right;
     }
 };
